@@ -1,0 +1,31 @@
+E:\Eddier\Programacion\C#\Aplicacion Fondos\bin\Debug\net10.0-windows\Aplicacion Fondos.exe
+E:\Eddier\Programacion\C#\Aplicacion Fondos\bin\Debug\net10.0-windows\Aplicacion Fondos.deps.json
+E:\Eddier\Programacion\C#\Aplicacion Fondos\bin\Debug\net10.0-windows\Aplicacion Fondos.runtimeconfig.json
+E:\Eddier\Programacion\C#\Aplicacion Fondos\bin\Debug\net10.0-windows\Aplicacion Fondos.dll
+E:\Eddier\Programacion\C#\Aplicacion Fondos\bin\Debug\net10.0-windows\Aplicacion Fondos.pdb
+E:\Eddier\Programacion\C#\Aplicacion Fondos\obj\Debug\net10.0-windows\Aplicacion Fondos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Eddier\Programacion\C#\Aplicacion Fondos\obj\Debug\net10.0-windows\Aplicacion Fondos.AssemblyInfoInputs.cache
+E:\Eddier\Programacion\C#\Aplicacion Fondos\obj\Debug\net10.0-windows\Aplicacion Fondos.AssemblyInfo.cs
+E:\Eddier\Programacion\C#\Aplicacion Fondos\obj\Debug\net10.0-windows\Aplicacion Fondos.csproj.CoreCompileInputs.cache
+E:\Eddier\Programacion\C#\Aplicacion Fondos\obj\Debug\net10.0-windows\Aplicacion Fondos.dll
+E:\Eddier\Programacion\C#\Aplicacion Fondos\obj\Debug\net10.0-windows\refint\Aplicacion Fondos.dll
+E:\Eddier\Programacion\C#\Aplicacion Fondos\obj\Debug\net10.0-windows\Aplicacion Fondos.pdb
+E:\Eddier\Programacion\C#\Aplicacion Fondos\obj\Debug\net10.0-windows\Aplicacion Fondos.genruntimeconfig.cache
+E:\Eddier\Programacion\C#\Aplicacion Fondos\obj\Debug\net10.0-windows\ref\Aplicacion Fondos.dll
+E:\Eddier\Programacion\C#\Proyectos\Aplicacion Fondos\obj\Debug\net10.0-windows\Aplicacion Fondos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Eddier\Programacion\C#\Proyectos\Aplicacion Fondos\obj\Debug\net10.0-windows\Aplicacion Fondos.AssemblyInfoInputs.cache
+E:\Eddier\Programacion\C#\Proyectos\Aplicacion Fondos\obj\Debug\net10.0-windows\Aplicacion Fondos.AssemblyInfo.cs
+E:\Eddier\Programacion\C#\Proyectos\Aplicacion Fondos\obj\Debug\net10.0-windows\Aplicacion Fondos.csproj.CoreCompileInputs.cache
+E:\Eddier\Programacion\C#\Proyectos\Aplicacion Fondos\obj\Debug\net10.0-windows\Aplicacion Fondos.dll
+E:\Eddier\Programacion\C#\Proyectos\Aplicacion Fondos\obj\Debug\net10.0-windows\refint\Aplicacion Fondos.dll
+E:\Eddier\Programacion\C#\Proyectos\Aplicacion Fondos\obj\Debug\net10.0-windows\Aplicacion Fondos.pdb
+E:\Eddier\Programacion\C#\Proyectos\Aplicacion Fondos\bin\Debug\net10.0-windows\Aplicacion Fondos.exe
+E:\Eddier\Programacion\C#\Proyectos\Aplicacion Fondos\bin\Debug\net10.0-windows\Aplicacion Fondos.deps.json
+E:\Eddier\Programacion\C#\Proyectos\Aplicacion Fondos\bin\Debug\net10.0-windows\Aplicacion Fondos.runtimeconfig.json
+E:\Eddier\Programacion\C#\Proyectos\Aplicacion Fondos\bin\Debug\net10.0-windows\Aplicacion Fondos.dll
+E:\Eddier\Programacion\C#\Proyectos\Aplicacion Fondos\bin\Debug\net10.0-windows\Aplicacion Fondos.pdb
+E:\Eddier\Programacion\C#\Proyectos\Aplicacion Fondos\obj\Debug\net10.0-windows\Aplicacion Fondos.genruntimeconfig.cache
+E:\Eddier\Programacion\C#\Proyectos\Aplicacion Fondos\obj\Debug\net10.0-windows\ref\Aplicacion Fondos.dll
+E:\Eddier\Programacion\C#\Proyectos\Aplicacion Fondos\bin\Debug\net10.0-windows\CuoreUI.dll
+E:\Eddier\Programacion\C#\Proyectos\Aplicacion Fondos\obj\Debug\net10.0-windows\Aplicacion Fondos.csproj.AssemblyReference.cache
+E:\Eddier\Programacion\C#\Proyectos\Aplicacion Fondos\obj\Debug\net10.0-windows\Aplicaci.C37CF9CF.Up2Date

@@ -1,0 +1,7 @@
+Span
+False
+True
+False
+30
+C:\Users\Eddier\Pictures\BovedaFondos\Windows_M1.png
+C:\Users\Eddier\Pictures\BovedaFondos\Windows_M2.png
